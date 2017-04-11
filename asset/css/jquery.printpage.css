@@ -1,0 +1,10 @@
+/* jquery.printpage.css
+ * --------------------
+ * CSS for the 'print page' links
+ */
+span.print {
+    background:url(../images/icon_printer.gif) no-repeat;
+    display:inline-block;
+    line-height:20px;
+    padding-left:23px;
+}
